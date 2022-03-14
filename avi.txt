@@ -3,4 +3,5 @@
 "welcome to the Github world"
 
 codes
+stage
 commit
